@@ -11,5 +11,7 @@ Aprendi também a vincular minha máquina ao GitHub utilizando uma chave SSH, ap
 Agora e só fixar esse conhecimentos com os projetos ao decorre do BootCamp.
 
 Para acompanhar o meu desenvolvimento, está aqui minhas redes sociais na qual vou estar postando:
+
 [GitHub](https://github.com/Bruno0103)
+
 [Linkedin](https://www.linkedin.com/in/bruno-soares-655b261b4/)
