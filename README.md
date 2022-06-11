@@ -1,6 +1,6 @@
-# Desafio-de-projeto 
+# Desafio-de-projeto da Dio
 
-Desafio de projeto sobre Git | GitHub 
+Desafio de projeto sobre Git | GitHub Dio
 
 Como desafio, estou colocando em pratica o qe aprendi até agora em quanto descrevo minha jornada até aqui. 
 
@@ -15,3 +15,5 @@ Para acompanhar o meu desenvolvimento, está aqui minhas redes sociais na qual v
 [GitHub](https://github.com/Bruno0103)
 
 [Linkedin](https://www.linkedin.com/in/bruno-soares-655b261b4/)
+
+Bruno Soares || 11/06/2022
